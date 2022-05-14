@@ -4,3 +4,44 @@
     box-sizing: border-box;
 }
 
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  h3 {
+    font-weight: bold;
+  }
+  p {
+    color: black;
+  }
+  .line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+  }
+  .clr {
+    clear: both;
+  }
+  .overlay-bg .bg {
+    background-color: #0077ffb9;
+    height: 100vh;
+  }
+
+  /* Start About */
+
+.About .title-box-2 {
+    margin-bottom: 3rem;
+  }
+  .About .titel-left {
+    font-size: 2rem;
+    position: relative;
+  }
+  .About .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  /* End About */
+  
+  
